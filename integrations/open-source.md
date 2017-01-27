@@ -90,6 +90,7 @@ Name | Description
 
 Name | Description
 ---|---
+[angular-swagger-ui](https://github.com/Orange-OpenSource/angular-swagger-ui) | An angularJS implementation of Swagger UI
 [Swagger Parser](https://github.com/BigstickCarpet/swagger-parser#swagger-parser) | Parses, validates, and dereferences JSON/YAML Swagger specs in Node and browsers
 
 #### Jolie
